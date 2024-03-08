@@ -27,3 +27,7 @@ cargo build --release
 ```
 cargo check
 ```
+
+### Related Links
+
+- https://doc.rust-lang.org/book/ch01-00-getting-started.html

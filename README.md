@@ -6,6 +6,7 @@ Our work directory is src. When you create the new project, Use the command such
 
 ## List
 
-| days            | Task                     | Topic                |
-| --------------- | ------------------------ | -------------------- |
-| [#1](src/day1/) | Print the "Hello, Rust!" | cargo new, cargo run |
+| days            | Task                      | Topic                |
+| --------------- | ------------------------- | -------------------- |
+| [#1](src/day1/) | Print the "Hello, Rust!"  | cargo new, cargo run |
+| [#2](src/day2/) | Change the variable value | mutable variable     |
