@@ -12,3 +12,4 @@ Our work directory is src. When you create the new project, Use the command such
 | [#2](src/day2/) | Change the variable value | mutable variable                  |
 | [#3](src/day3/) | Declare the variant types | Data types                        |
 | [#4](src/day4/) | Create the functions      | Function, Statements, Expressions |
+| [#5](src/day5/) | Use the `if` statement    | Control Flow                      |
