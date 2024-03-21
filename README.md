@@ -6,10 +6,11 @@ Our work directory is src. When you create the new project, Use the command such
 
 ## List
 
-| days            | Task                      | Topic                             |
-| --------------- | ------------------------- | --------------------------------- |
-| [#1](src/day1/) | Print the "Hello, Rust!"  | cargo new, cargo run              |
-| [#2](src/day2/) | Change the variable value | mutable variable                  |
-| [#3](src/day3/) | Declare the variant types | Data types                        |
-| [#4](src/day4/) | Create the functions      | Function, Statements, Expressions |
-| [#5](src/day5/) | Use the `if` statement    | Control Flow                      |
+| days            | Task                      | Topic                                          |
+| --------------- | ------------------------- | ---------------------------------------------- |
+| [#1](src/day1/) | Print the "Hello, Rust!"  | cargo new, cargo run                           |
+| [#2](src/day2/) | Change the variable value | mutable variable                               |
+| [#3](src/day3/) | Declare the variant types | Data types                                     |
+| [#4](src/day4/) | Create the functions      | Function, Statements, Expressions              |
+| [#5](src/day5/) | Use the `if` statement    | Control Flow                                   |
+| [#6](src/day6/) | Use the `loop` statement  | Repeating Code with the loop(while, for, loop) |
