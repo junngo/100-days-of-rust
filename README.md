@@ -14,3 +14,4 @@ Our work directory is src. When you create the new project, Use the command such
 | [#4](src/day4/) | Create the functions      | Function, Statements, Expressions              |
 | [#5](src/day5/) | Use the `if` statement    | Control Flow                                   |
 | [#6](src/day6/) | Use the `loop` statement  | Repeating Code with the loop(while, for, loop) |
+| [#7](src/day7/) | Run and Read the code     | Ownership                                      |
