@@ -16,3 +16,4 @@ Our work directory is src. When you create the new project, Use the command such
 | [#6](src/day6/) | Use the `loop` statement                  | Repeating Code with the loop(while, for, loop) |
 | [#7](src/day7/) | Run and Read the code                     | Ownership                                      |
 | [#8](src/day8/) | Create the functions with the `&` and mut | References, Borrowing                          |
+| [#9](src/day9/) | Run and Read the code                     | Slice, String and String literals              |
