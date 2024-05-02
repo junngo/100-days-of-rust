@@ -6,14 +6,15 @@ Our work directory is src. When you create the new project, Use the command such
 
 ## List
 
-| days            | Task                                      | Topic                                          |
-| --------------- | ----------------------------------------- | ---------------------------------------------- |
-| [#1](src/day1/) | Print the "Hello, Rust!"                  | cargo new, cargo run                           |
-| [#2](src/day2/) | Change the variable value                 | mutable variable                               |
-| [#3](src/day3/) | Declare the variant types                 | Data types                                     |
-| [#4](src/day4/) | Create the functions                      | Function, Statements, Expressions              |
-| [#5](src/day5/) | Use the `if` statement                    | Control Flow                                   |
-| [#6](src/day6/) | Use the `loop` statement                  | Repeating Code with the loop(while, for, loop) |
-| [#7](src/day7/) | Run and Read the code                     | Ownership                                      |
-| [#8](src/day8/) | Create the functions with the `&` and mut | References, Borrowing                          |
-| [#9](src/day9/) | Run and Read the code                     | Slice, String and String literals              |
+| days              | Task                                      | Topic                                          |
+| ----------------- | ----------------------------------------- | ---------------------------------------------- |
+| [#1](src/day1/)   | Print the "Hello, Rust!"                  | cargo new, cargo run                           |
+| [#2](src/day2/)   | Change the variable value                 | mutable variable                               |
+| [#3](src/day3/)   | Declare the variant types                 | Data types                                     |
+| [#4](src/day4/)   | Create the functions                      | Function, Statements, Expressions              |
+| [#5](src/day5/)   | Use the `if` statement                    | Control Flow                                   |
+| [#6](src/day6/)   | Use the `loop` statement                  | Repeating Code with the loop(while, for, loop) |
+| [#7](src/day7/)   | Run and Read the code                     | Ownership                                      |
+| [#8](src/day8/)   | Create the functions with the `&` and mut | References, Borrowing                          |
+| [#9](src/day9/)   | Run and Read the code                     | Slice, String and String literals              |
+| [#10](src/day10/) | Make the User `struct`                    | Defining and Instantiating Structs             |
